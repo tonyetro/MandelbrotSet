@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ZZEN9126_Mandelbrot_Set",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ZZEN9126_Mandelbrot_Set::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZZEN9126_Mandelbrot_Set-Debug-e99a59c935634734bce9.json",
+					"name" : "ZZEN9126_Mandelbrot_Set",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tonyetro/Projects/C/ZZEN9126-Mandelbrot_Set/cmake-build-debug",
+		"source" : "C:/Users/tonyetro/Projects/C/ZZEN9126-Mandelbrot_Set"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
